@@ -223,6 +223,5 @@
 ### URL
 - 테이블 설계서 URL : https://www.erdcloud.com/d/nkBL3qYezYH993rSj
 - API 명세서 URL : https://documenter.getpostman.com/view/21511146/VUxLwU8Q
-- 안드로이드 깃허브 URL : https://github.com/fullspringwater/android-borrowthing
-- 프로젝트 기술서 URL : https://docs.google.com/presentation/d/174_j53JRkbvM00zhmGBc4ILLhdFF3gLaqkYo_bnpj68/edit#slide=id.g155187810e0_2_5
-
+- 안드로이드 깃허브 URL : https://github.com/ghdrl858/android-borrowthing-final
+- 프로젝트 기술서 URL : https://docs.google.com/presentation/d/1j92qjWEymkopXsib6F34sBA_Js4zooMSsCpZFUY8Qy0/edit#slide=id.g35f391192_00
