@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+mysql_connection.py
+config.py
+
+node_modules/
+.serverless/
